@@ -1,0 +1,79 @@
+/* .box-container {
+
+width: 484px;
+height: 286px;
+opacity: 0.03;
+background-color: var(--green-light);
+
+}
+
+.box-container img {
+    vertical-align: middle;
+    background-position: cover;
+}
+
+/* .photo-background {
+    background-image: 
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+/* Container holding the image and the text */
+section {
+  max-width: 1000px;
+}
+.box-container {
+  position: relative;
+  width: 318px;
+  height: 318px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+}
+.box-container .content {
+  bottom: 0;
+  background-image: url("image_3.png");
+  width: 100%;
+  padding: 20px;
+}
+.box-container:hover {
+  border: solid;
+  border-color: var(--green-base);
+}
+.box-container::before {
+  content: "";
+  background-image: url("image_3.png");
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgba(0, 0, 0, 0.25);
+  opacity: 0.03;
+}
+
+.card-text {
+  position: relative;
+  color: #ffffff;
+  line-height: 0.9;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+}
+
+/*  */
+
+/* Bottom right text
+  .text-block {
+  
+    top: 20px;
+    right: 20px;
+    
+    color: white;
+    /* padding-left: 20px;
+    padding-right: 20px; */
