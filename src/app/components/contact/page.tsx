@@ -7,7 +7,7 @@ export default function Contact()
 {
     const pathname = usePathname()
     return (
-        <div>
+        <div className="m-20">
             <div className="text-center text-2xl semi-bold green-light">
                 <span className="number green-base text-lg roboto">04.</span>Contact</div>
             <p className="flex-column text-lg green-light box-sizing">
