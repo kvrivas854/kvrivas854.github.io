@@ -11,7 +11,7 @@ export default function About() {
           <p className="text-lg green-light semi-bold">Hello! I&apos;m Kelly, a software engineer based in Charlotte, NC.</p>
           <p className="text-lg green-light semi-bold">I enjoy creating things that live on the interenet, whether that be wesbites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesing things that matter.</p>
           <p className="text-lg green-light semi-bold">Shortly after graduating from 
-          <span className="green-base">University of North Carolina at Charlotte Coding Bootcamp</span>, I joined the engineering team at  <span className="green-base">Progress</span>.</p>
+          <span className="green-base"> University of North Carolina at Charlotte Coding Bootcamp</span>, I joined the engineering team at  <span className="green-base">Progress</span>.</p>
           <p className="text-lg green-light semi-bold">Here are a few technologies I&apos;ve been working with recently:</p>
           <div className="flex green-light">
             <div className="col">
