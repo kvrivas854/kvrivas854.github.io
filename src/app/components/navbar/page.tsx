@@ -33,6 +33,7 @@ export default function Navbar() {
                     </ul>
                     <button className="spacing text-sm green-base hover contact-button roboto">
                         <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/contact">
+                            <a href="mailto:EMAILADDRESS"></a>
                             Contact
                         </Link>
                     </button>
