@@ -1,5 +1,4 @@
 'use client'
-import Link from 'next/link'
 import Navbar from './components/navbar/page'
 import Home from './components/home/page';
 import About from './components/about/page'
@@ -13,11 +12,21 @@ export default function Page()
   return (
     <main className="m-20">
       <Navbar />
-      <Home />
-      <About />
-      <Experience />
-      <Project />
-      <Contact />
+      <section id="home">
+        <Home />
+      </section>
+      <section id="about">
+        <About />
+      </section>
+      <section id="experience">
+        <Experience />
+      </section>
+      <section id="project">
+        <Project />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
     </main>
 
   )

@@ -1,4 +1,3 @@
-'use client'
 import { usePathname } from "next/navigation"
 import Link from "next/link"
 import "./style.css"
@@ -16,12 +15,12 @@ export default function Navbar() {
             <div className="flex col flex-end">
                     <ul className="nav nav-tabsfinder flex text-sm">
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/home" scroll={true}>
+                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/" scroll={true}>
                                 About
                             </Link>
                         </li>
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/about' ? 'nav-link active' : 'nav-link'}`} href="/about" scroll={true}>
+                            <Link className={`link ${pathname === '/experience' ? 'nav-link active' : 'nav-link'}`} href="/experience" scroll={true}>
                                 Experience
                             </Link>
                         </li>
@@ -32,8 +31,7 @@ export default function Navbar() {
                         </li>
                     </ul>
                     <button className="spacing text-sm green-base hover contact-button roboto">
-                        <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/contact">
-                            <a href="mailto:EMAILADDRESS"></a>
+                        <Link className={`link ${pathname === '/contact' ? 'nav-link active' : 'nav-link'}`} href="/contact">
                             Contact
                         </Link>
                     </button>
