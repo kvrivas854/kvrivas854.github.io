@@ -8,11 +8,11 @@ export default function About() {
       </div>
       <div className="flex">
         <div className="col">
-          <p className="text-lg green-light semi-bold">Hello! I'm Kelly, a software engineer based in Charlotte, NC.</p>
+          <p className="text-lg green-light semi-bold">Hello! I&apos;m Kelly, a software engineer based in Charlotte, NC.</p>
           <p className="text-lg green-light semi-bold">I enjoy creating things that live on the interenet, whether that be wesbites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesing things that matter.</p>
           <p className="text-lg green-light semi-bold">Shortly after graduating from 
           <span className="green-base">University of North Carolina at Charlotte Coding Bootcamp</span>, I joined the engineering team at  <span className="green-base">Progress</span>.</p>
-          <p className="text-lg green-light semi-bold">Here are a few technologies I've been working with recently:</p>
+          <p className="text-lg green-light semi-bold">Here are a few technologies I&apos;ve been working with recently:</p>
           <div className="flex green-light">
             <div className="col">
               <p className="list-item">
@@ -37,7 +37,7 @@ export default function About() {
                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                   <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                 </svg>
-                JSON + RESTful API's
+                JSON + RESTful API&apos;s
               </p>
               <p className="list-item">
                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
