@@ -17,7 +17,7 @@ export default function Navbar() {
             <div className="flex col flex-end">
                     <ul className="nav nav-tabsfinder flex text-sm">
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/" scroll={false}>
+                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="#about" scroll={true}>
                                 About
                             </Link>
                         </li>
