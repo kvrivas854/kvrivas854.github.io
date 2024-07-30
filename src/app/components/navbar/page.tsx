@@ -2,6 +2,7 @@
 import { usePathname } from "next/navigation"
 import Link from "next/link"
 import "./style.css"
+import About from "../about/page"
 
 export default function Navbar() {
     const pathname = usePathname()
@@ -16,23 +17,23 @@ export default function Navbar() {
             <div className="flex col flex-end">
                     <ul className="nav nav-tabsfinder flex text-sm">
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/" scroll={true}>
+                            <Link className={`link ${pathname === '/' ? 'nav-link active' : 'nav-link'}`} href="/" scroll={false}>
                                 About
                             </Link>
                         </li>
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/experience' ? 'nav-link active' : 'nav-link'}`} href="/experience" scroll={true}>
+                            <Link className={`link ${pathname === '/experience' ? 'nav-link active' : 'nav-link'}`} href="#experience" scroll={true}>
                                 Experience
                             </Link>
                         </li>
                         <li className="nav-item hover">
-                            <Link className={`link ${pathname === '/projects' ? 'nav-link active' : 'nav-link'}`} href="/projects" scroll={true}>
+                            <Link className={`link ${pathname === '/project' ? 'nav-link active' : 'nav-link'}`} href="#project" scroll={true}>
                                 Projects
                             </Link>
                         </li>
                     </ul>
                     <button className="spacing text-sm green-base hover contact-button roboto">
-                        <Link className={`link ${pathname === '/contact' ? 'nav-link active' : 'nav-link'}`} href="/contact">
+                        <Link className={`link ${pathname === '/contact' ? 'nav-link active' : 'nav-link'}`} href="#contact" scroll={true}>
                             Contact
                         </Link>
                     </button>

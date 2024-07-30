@@ -1,5 +1,8 @@
 'use client'
 
+type Experience = {
+    id: 'experience'
+};
 export default function Experience() {
     return (
         <div className="wrapper m-20">
