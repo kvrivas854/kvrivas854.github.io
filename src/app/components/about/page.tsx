@@ -21,9 +21,9 @@ export default function About() {
             <span>.</span>
           </p>
           <p className="text-lg green-light semi-bold">
-            <span>To stay connected in the the tech community in Charlotte, I particatipate in the</span>
+            <span>To stay connected in the the tech community in Charlotte, I participate as a Chapter Leader</span>
             <span className="green-base"> Latinas In Tech Charlotte Chapter</span>
-            <span> as a Chapter Leader.</span>
+            <span>.</span>
           </p>
           <p className="text-lg green-light semi-bold">Here are a few technologies I&apos;ve been working with recently:</p>
           <div className="flex green-light">

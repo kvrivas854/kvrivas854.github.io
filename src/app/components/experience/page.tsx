@@ -29,7 +29,7 @@ export default function Experience() {
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Collaborated with stakeholders to define system requirements and clarify objectives
+                                Collaborated with stakeholders to define system requirements and clarify objectives.
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">

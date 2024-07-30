@@ -12,9 +12,9 @@ export default function Home() {
             </div>
             <div className="text-4xl extra-bold green-light spacing">Kelly Rivas</div>
             <p className="text-4xl extra-bold gray spacing">I build digital products.</p>
-            <p className="text-lg green-light description-spacing">I&apos;m a software engineer based in Charlotte, NC specializing in building websites, applications, and everything in between.</p>
+            <p className="text-lg green-light description-spacing">I&apos;m a software engineer based in Charlotte, NC specializing in building user-centric websites, applications, and everything in between.</p>
             <button className="spacing text-md green-base hover green-button roboto">
-                <Link className={`link ${pathname === '/contact' ? 'nav-link active' : 'nav-link'}`} href="/contact">Get in touch</Link>
+                <Link className={`link ${pathname === '/contact' ? 'nav-link active' : 'nav-link'}`} href="https://www.linkedin.com/in/kelly-rivas-37896a76/">Get in touch</Link>
             </button>
         </div>
     )
