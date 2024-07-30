@@ -41,13 +41,13 @@ export default function Experience() {
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Led cross-functional teams of 8 to 10 and mentored junior members on best practices for frontend development.
+                                Collaborated on cross-functional teams of 5 to 10 and mentored junior members on best practices for front-end development.
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Test driven development for unit testing utilizing Jest.
+                                Wrote units test using Jest using TDD to ensure code is reliable.
                             </p>
                         </section>
                     </div>
