@@ -83,7 +83,14 @@ code {
   background-color: #4caf50;
   color: white;
 }
-
+.nav {
+  color: #f2f2f2;
+  overflow: hidden;
+  position: sticky;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
 .p-1 {
   padding: 10px;
 }

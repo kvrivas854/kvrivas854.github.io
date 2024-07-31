@@ -2,7 +2,7 @@
 import { usePathname } from "next/navigation"
 import Link from "next/link"
 import "./style.css"
-import About from "../about/page"
+
 
 export default function Navbar() {
     const pathname = usePathname()

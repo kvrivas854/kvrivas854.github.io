@@ -11,7 +11,9 @@ export default function Page()
 {
   return (
     <main className="m-20">
-      <Navbar />
+      <section className='nav'>
+        <Navbar />
+      </section>
       <section id="home">
         <Home />
       </section>
