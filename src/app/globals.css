@@ -252,4 +252,7 @@ li.list-item {
   .contact-button {
     margin: 0px 20px;
   }
+  .nav {
+    position: relative;
+  }
 }
