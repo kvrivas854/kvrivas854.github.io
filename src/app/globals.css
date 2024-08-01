@@ -17,6 +17,7 @@ body {
   background-color: var(--dark-blue);
   max-width: 1000px;
   margin: 0 auto;
+  padding-top: ;
 }
 
 code {
@@ -167,6 +168,7 @@ code {
 
 ul.nav {
   list-style-type: decimal-leading-zero;
+  padding-left: 10px;
 }
 
 li.nav-item {
@@ -251,9 +253,6 @@ li.list-item {
   }
   .contact-button {
     margin: 0px 20px;
-  }
-  .nav {
-    position: relative;
   }
   .box-container {
   }
