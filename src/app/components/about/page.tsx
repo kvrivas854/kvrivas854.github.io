@@ -9,19 +9,19 @@ export default function About() {
       <div className="flex">
         <div className="col">
           <p className="text-lg green-light semi-bold">Hello! I&apos;m Kelly, a software engineer based in Charlotte, NC.</p>
-          <p className="text-lg green-light semi-bold">I enjoy creating things that live on the interenet, whether that be wesbites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesing things that matter.</p>
+          <p className="text-lg green-light semi-bold">I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I prefer to keep learning, continue challenging myself, and do interesting things that matter.</p>
           <p className="text-lg green-light semi-bold">Shortly after graduating from the
             <span className="green-base"> University of North Carolina at Charlotte Coding Bootcamp</span>
             <span>,  I joined the engineering team at </span>
             <span className="green-base">Progress</span>
-            <span>. I continued my journey in software developement by working at large finanicial corporations such as </span>
+            <span>. I continued my journey in software development by working at large financial corporations such as </span>
             <span className="green-base">Bank of America</span>
             <span> and Enterprises such as </span>
             <span className="green-base">Ferguson</span>
             <span>.</span>
           </p>
           <p className="text-lg green-light semi-bold">
-            <span>To stay connected in the the tech community in Charlotte, I participate as a Chapter Leader</span>
+            <span>To stay connected in the tech community in Charlotte, I participate as a Chapter Leader</span>
             <span className="green-base"> Latinas In Tech Charlotte Chapter</span>
             <span>.</span>
           </p>
