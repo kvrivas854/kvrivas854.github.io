@@ -22,7 +22,7 @@ export default function About() {
           </p>
           <p className="text-lg green-light semi-bold">
             <span>To stay connected in the tech community in Charlotte, I participate as a Chapter Leader</span>
-            <span className="green-base"> for Latinas In Tech - NC Chaptor</span>
+            <span className="green-base"> for Latinas In Tech - NC Chapter</span>
             <span>.</span>
           </p>
           <p className="text-lg green-light semi-bold">Here are a few technologies I&apos;ve been working with recently:</p>
