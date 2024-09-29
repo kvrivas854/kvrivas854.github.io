@@ -17,13 +17,13 @@ export default function Experience() {
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Built GTM data-analytics events, created functional components with React, Redux, TypeScript, and Apollo GraphQL This application sat on top of a MongoDB database.
+                                Built GTM data-analytics events, created functional components with React, Redux, TypeScript, and Apollo GraphQL.
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Created and monitored featured flags within Lucidworks, building features within different domains of build.com such as search and findability, product pages, and cart checkout functionalities, migrating Node.JS pages to React, monitored and modernized core web vitals.
+                                Created and monitored feature flags within Lucidworks, built features within different domains of build.com such as search and findability, product pages, and cart checkout functionalities, migrating Node.JS pages to React, monitored and modernized core web vitals.
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
@@ -59,31 +59,19 @@ export default function Experience() {
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                            Developed and modernized software to support business functions, integrating front-end framework Angular1 and MySQL with backend technologies including Tomcat, Maven, and micro services such as Spring Boot.    
+                            Developed and modernized software to support business functions, integrating front-end framework Angular1 with backend technologies including Java, Tomcat, Maven, and Spring Boot.    
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                CSS libraries include Selectize and Select2, created test cases for application functionality.
+                                Created test cases for application functionality.
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Developed, tested, and implemented software applications using Java technologies.
-                            </p>
-                            <p className="text-md list-item green-light">
-                                <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
-                                    <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
-                                </svg>
-                                Assisted in the design and development of user interface features.
-                            </p>
-                            <p className="text-md list-item green-light">
-                                <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
-                                    <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
-                                </svg>
-                                Created database objects such as tables, views, stored procedures and functions. Deployed software applications on multiple platforms including web servers, mobile devices and cloud-based solutions.
+                                Assisted in the development of user interface features.
                             </p>
                         </section>    
                     </div>
@@ -95,7 +83,7 @@ export default function Experience() {
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                                     <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                                 </svg>
-                                Participate in design and code reviews, measure and verify acceptable performance and scalability, utilize React, Tailwind CSS, GraphQL, and PostgreSQL.    
+                                Participate in design and code reviews, measure and verify acceptable performance and scalability, utilize RedwoodJs a jamstack consisting of React, Typescript, and PostgreSQL.    
                             </p>
                             <p className="text-md list-item green-light">
                                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">

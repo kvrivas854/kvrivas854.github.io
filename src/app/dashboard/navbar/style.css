@@ -1,0 +1,6 @@
+.hover :hover {
+  color: var(--green-base);
+}
+.navigation-bar {
+  background-color: var(--dark-blue);
+}

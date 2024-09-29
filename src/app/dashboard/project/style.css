@@ -1,24 +1,3 @@
-/* .box-container {
-
-width: 484px;
-height: 286px;
-opacity: 0.03;
-background-color: var(--green-light);
-
-}
-
-.box-container img {
-    vertical-align: middle;
-    background-position: cover;
-}
-
-/* .photo-background {
-    background-image: 
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
-/* Container holding the image and the text */
 section {
   max-width: 1000px;
 }
@@ -68,15 +47,3 @@ a:link {
 ul {
   padding-left: 0px;
 }
-
-/*  */
-
-/* Bottom right text
-  .text-block {
-  
-    top: 20px;
-    right: 20px;
-    
-    color: white;
-    /* padding-left: 20px;
-    padding-right: 20px; */

@@ -44,7 +44,7 @@ export default function About() {
                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
                   <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                 </svg>
-                HTML + CSS3
+                HTML5 + CSS3
               </p>
               <p className="list-item">
                 <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
@@ -107,6 +107,12 @@ export default function About() {
                   <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
                 </svg>
                 Docker
+              </p>
+              <p className="list-item">
+                <svg className="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" fill="none" viewBox="0 0 10 10">
+                  <path stroke="#93E5AB" d="M9.5 9.5H1.207L9.5 1.207V9.5z" />
+                </svg>
+                Story Book
               </p>
             </div>
           </div>
